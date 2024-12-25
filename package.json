@@ -1,0 +1,12 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/YuYeon-K/ping-pong/assets/84812808/4f52c264-932d-4034-a9a7-07c0d5921722)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
